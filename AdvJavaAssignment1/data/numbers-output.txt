@@ -1,0 +1,4 @@
+First number is :25
+Second number is :45
+The sum of two number is70
+Difference of two numbers is-20

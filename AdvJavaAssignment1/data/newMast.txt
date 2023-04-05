@@ -1,0 +1,10 @@
+100 customer100 -4384.0
+101 customer101 -16277.0
+102 customer102 4370.0
+103 customer103 2560.0
+104 customer104 10365.0
+105 customer105 -934.0
+106 customer106 -2706.0
+107 customer107 1728.0
+108 customer108 -8684.0
+109 customer109 -17782.0
